@@ -1,0 +1,25 @@
+header{ 
+    background: linear-gradient(90deg,rgb(25, 145, 1),rgb(59, 145, 33));
+}
+body{ 
+    background: linear-gradient(90deg,rgb(25, 145, 1),rgb(59, 145, 33));
+    color: white;
+}
+a{ 
+    text-decoration: none;
+    color: white;
+}
+.lista{ 
+    text-decoration: none;
+    color:white;
+    width: 900px;
+    border: inset 3px black;
+    font-size:30px;
+    text-align: center;
+}
+table,tbody,tr,td{ 
+    border: solid 1px black;
+    text-align: center;
+    align-items: center;
+    text-align: center;
+}
